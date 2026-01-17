@@ -18,3 +18,4 @@ Responsive smartphone comparison tool. React + Material UI.
 ```bash
 npm install
 npm start
+```
